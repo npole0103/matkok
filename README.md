@@ -21,6 +21,7 @@ This project is My First Project. Language : SQL, Python
 Python : 셀리니움(크롤링), pyqt5(GUI)
 
 DataBase : user 테이블, matzip 테이블, personalPage 테이블
+
 ---
 
 ### 참조
