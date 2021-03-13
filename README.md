@@ -18,7 +18,7 @@ This project is My First Project. Language : SQL, Python
 
 ### 프로그래밍 개요
 
-Python : 셀리니움(크롤링), pyqt5(GUI)
+Python : ~~셀리니움(크롤링)~~, requests(크롤링), pyqt5(GUI)
 
 DataBase : user 테이블, matzip 테이블, personalPage 테이블
 
@@ -26,7 +26,7 @@ DataBase : user 테이블, matzip 테이블, personalPage 테이블
 
 ### 셀레니움 환경 구축
 
-[셀레니움 환경구축](https://blog.naver.com/sosow0212/222202718366)
+~~[셀레니움 환경구축](https://blog.naver.com/sosow0212/222202718366)~~
 
 ---
 
