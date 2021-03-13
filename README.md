@@ -24,6 +24,12 @@ DataBase : user 테이블, matzip 테이블, personalPage 테이블
 
 ---
 
+### 셀레니움 환경 구축
+
+[셀레니움 환경구축](https://blog.naver.com/sosow0212/222202718366)
+
+---
+
 ### 참조
 
 ---
